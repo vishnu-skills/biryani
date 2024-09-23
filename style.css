@@ -50,8 +50,7 @@ nav a {
 }
 
 a:link {
-  color: rgb(255, 184, 52);
-
+color: rgb(0, 0, 0);
 }
 a:visited {
   color: rgb(56, 19, 0);
